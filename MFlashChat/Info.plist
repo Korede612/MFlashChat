@@ -20,6 +20,12 @@
 				</dict>
 			</array>
 		</dict>
+		<key>DevelopmentAPI</key>
+		<string>$(DEV_API)</string>
+		<key>StaggingAPI</key>
+		<string>$(STAG_API)</string>
+		<key>ProductionAPI</key>
+		<string>$(PROD_API)</string>
 	</dict>
 </dict>
 </plist>
